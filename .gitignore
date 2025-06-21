@@ -5,3 +5,6 @@
 #Removing the DynamoDB folder node_modules from the git repo.
 DynamoDB/node_modules
 DynamoDB/.env
+
+Auth_2FA/client/node_modules
+Auth_2FA/server/node_modules
