@@ -6,5 +6,5 @@
 DynamoDB/node_modules
 DynamoDB/.env
 
-Auth_2FA/client/node_modules
-Auth_2FA/server/node_modules
+Auth_Login_Otp_Verification/client/node_modules
+Auth_Login_Otp_Verification/server/node_modules
