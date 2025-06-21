@@ -8,3 +8,8 @@ DynamoDB/.env
 
 Auth_Login_Otp_Verification/client/node_modules
 Auth_Login_Otp_Verification/server/node_modules
+
+#Auth
+Auth_2FA(Google Auth)/server/.env
+Auth_2FA(Google Auth)/server/node_modules
+Auth_2FA(Google Auth)/client/node_modules
