@@ -1,11 +1,13 @@
 "use strict";
 
 const express = require("express");
+const cors = require("cors");
 const utils = require('./utils');
 require('dotenv').config();
 
 const PORT = process.env.PORT || 4000;
 const app = express();
+app.use(cors())
 
 app.get('/authenticate', async (req, res) => {
     try {

@@ -13,3 +13,9 @@ Auth_Login_Otp_Verification/server/node_modules
 Auth_2FA/server/.env
 Auth_2FA/server/node_modules
 Auth_2FA/client/node_modules
+SSO/sso-backend/node_modules
+SSO/sso-backend/.env
+SSO/sso-backend/package-lock.json
+SSO/sso-frontend/node_modules
+SSO/sso-frontend/.env
+SSO/sso-frontend/package-lock.json
